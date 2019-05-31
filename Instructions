@@ -1,0 +1,2 @@
+Change the IP adress on the client to what the server computer's address is. 
+Make sure that the port numbers match and are not in use(try different port numbers until it works). 
